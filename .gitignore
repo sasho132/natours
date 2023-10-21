@@ -109,6 +109,7 @@ src/runtime.version
 misctools/machbench
 *.big
 .eslintcache
+.eslintrc.json
 
 bun-webkit
 
