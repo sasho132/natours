@@ -144,3 +144,7 @@ tsconfig.tsbuildinfo
 .env.local
 
 .prettierrc
+
+Dockerfile
+docker-compose.yml
+.dockerignore
